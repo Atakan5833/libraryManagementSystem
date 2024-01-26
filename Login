@@ -1,1 +1,3 @@
-u
+username: kullanici
+
+password: deneme
